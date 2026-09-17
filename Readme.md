@@ -56,37 +56,47 @@ Workstation Player, à l’aide d’une image disque (ISO).
 
 **G.** Lancement du live CD : 
 
-[Placer votre capture d'écran]() 
+<img width="639" height="533" alt="Lancement" src="https://github.com/user-attachments/assets/8ac52812-9387-434d-bfe2-95b2ece6f881" />
 
 Shell Linux : 
 
-[Placer votre capture d'écran]() 
+<img width="798" height="653" alt="Shell" src="https://github.com/user-attachments/assets/0d541573-cc46-4704-9f9e-1646c0e59098" />
 
 > **ATTENTION** : par défaut, le clavier est configuré est **Clavier Americain**
 
 Q1. disposition du clavier américain ?
 
-> votre réponse ?!
+<img width="720" height="279" alt="American" src="https://github.com/user-attachments/assets/a0cde3b2-bac6-4a64-8261-fdd2cd344b94" />
 
 Q2. disposition du clavier suisse-romand ?
 
-> votre réponse ?!
+<img width="531" height="183" alt="Suisse" src="https://github.com/user-attachments/assets/98153eb1-74cb-4486-b776-172ab888c11a" />
 
 Q3. disposition du le clavier français ? 
 
-> votre réponse ?!
+<img width="530" height="171" alt="Francais" src="https://github.com/user-attachments/assets/7f05a2bd-9fa9-49c3-8892-64c8d7825265" />cd
 
 **H.** Déplacez-vous à la **racine du système** en utilisant la commande suivante : `cd` 
 
-Q4. vore commande ?!
+Q4. <img width="148" height="69" alt="Racine" src="https://github.com/user-attachments/assets/521a35c8-043f-4e04-9993-adc9d0736744" />
 
 **I.** Affichez le contenu de la racine avec la commande : `ls –l`	
 
-![Placer votre capture d'écran]() 
+<img width="716" height="404" alt="ls-l" src="https://github.com/user-attachments/assets/b38123d1-c0d0-42a7-b1d0-dabf5f196a6e" />
 
 Q5. Que signifie l'option `-l` avec la commande `ls` 
 
-> votre réponse ?!
+Le -l signifie « long listing format » (affichage détaillé).
+
+Au lieu d'afficher uniquement les noms des fichiers, ls -l affiche plusieurs informations :
+-rw-r--r--  1  	roor  	root  1234  Sep 17 16:20  fichier.txt
+│           │     │       │      │        │
+│           │     │       │      │        └─ Nom
+│           │     │       │      └─ Date/heure de modification
+│           │     │       └─ Taille
+│           │     └─ Groupe
+│           └─ Propriétaire
+└─ Permissions + type
 
 Q6. Décrypter la ligne où se trouve le répertoire **home**    
 
