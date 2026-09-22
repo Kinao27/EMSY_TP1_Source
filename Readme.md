@@ -89,14 +89,8 @@ Q5. Que signifie l'option `-l` avec la commande `ls`
 Le -l signifie « long listing format » (affichage détaillé).
 
 Au lieu d'afficher uniquement les noms des fichiers, ls -l affiche plusieurs informations :
--rw-r--r--  1  	root  	root  1234  Sep 17 16:20  fichier.txt
-│           │     │       |		│     │        		│
-│           │     │       |		│     │        		└─ Nom
-│           │     │       |		│     └─ Date/heure de modification
-│           │     │       |		└─ Taille
-│           │     └─ Groupe
-│           └─ Propriétaire
-└─ Permissions + type
+
+<img width="458" height="163" alt="Infos" src="https://github.com/user-attachments/assets/6cbdf94d-989f-4da2-b0b4-aceb6144258d" />
 
 Q6. Décrypter la ligne où se trouve le répertoire **home**    
 
