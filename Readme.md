@@ -90,7 +90,7 @@ Le -l signifie « long listing format » (affichage détaillé).
 
 Au lieu d'afficher uniquement les noms des fichiers, ls -l affiche plusieurs informations :
 
-<img width="458" height="163" alt="Infos" src="https://github.com/user-attachments/assets/6cbdf94d-989f-4da2-b0b4-aceb6144258d" />
+<img width="438" height="164" alt="Infos" src="https://github.com/user-attachments/assets/fa2d2365-27fc-4d8f-90a7-5c9a57272ef9" />
 
 Q6. Décrypter la ligne où se trouve le répertoire **home**    
 
