@@ -94,9 +94,21 @@ Au lieu d'afficher uniquement les noms des fichiers, ls -l affiche plusieurs inf
 
 Q6. Décrypter la ligne où se trouve le répertoire **home**    
 
-[Placer votre capture d'écran]()
+<img width="381" height="20" alt="Home" src="https://github.com/user-attachments/assets/df38e28b-179b-4dff-9248-c5efb83581db" />
 
-> votre réponse ?!
+·d → home est un répertoire (dossier).
+·rwx → le propriétaire (root) a les droits :
+	·r = lecture
+	·w = écriture
+	·x = accès au répertoire
+·r-x → le groupe (root) peut lire et accéder au répertoire, mais pas écrire.
+·r-x → les autres utilisateurs peuvent lire et accéder au répertoire, mais pas écrire.
+·1 → nombre de liens.
+·root → propriétaire du répertoire.
+·root → groupe propriétaire.
+·60 → taille indiquée pour le répertoire.
+·Sep 17 14:02 → dernière modification.
+·home → nom du répertoire.
 
 **J.** Créez un répertoire de travail nommé « EMSY_VosInitiales» 
 
