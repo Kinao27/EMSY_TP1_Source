@@ -74,7 +74,7 @@ Q2. disposition du clavier suisse-romand ?
 
 Q3. disposition du le clavier français ? 
 
-<img width="530" height="171" alt="Francais" src="https://github.com/user-attachments/assets/7f05a2bd-9fa9-49c3-8892-64c8d7825265" />cd
+<img width="530" height="171" alt="Francais" src="https://github.com/user-attachments/assets/7f05a2bd-9fa9-49c3-8892-64c8d7825265" />
 
 **H.** Déplacez-vous à la **racine du système** en utilisant la commande suivante : `cd` 
 
@@ -89,11 +89,11 @@ Q5. Que signifie l'option `-l` avec la commande `ls`
 Le -l signifie « long listing format » (affichage détaillé).
 
 Au lieu d'afficher uniquement les noms des fichiers, ls -l affiche plusieurs informations :
--rw-r--r--  1  	roor  	root  1234  Sep 17 16:20  fichier.txt
-│           │     │       │      │        │
-│           │     │       │      │        └─ Nom
-│           │     │       │      └─ Date/heure de modification
-│           │     │       └─ Taille
+-rw-r--r--  1  	root  	root  1234  Sep 17 16:20  fichier.txt
+│           │     │       |		│     │        		│
+│           │     │       |		│     │        		└─ Nom
+│           │     │       |		│     └─ Date/heure de modification
+│           │     │       |		└─ Taille
 │           │     └─ Groupe
 │           └─ Propriétaire
 └─ Permissions + type
